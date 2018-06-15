@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  margin-top: 10px;
+}
+
+h2, label {
+  color: #fff;
+}
+
+span {
+  display: inline-block;
+  color: #fff;
+}
+
+/*
+.picture {
+  height: 100%;
+  background-image: url('http://lapes.org/wp-content/uploads/2018/05/Html-Page-Background-Color-23-with-Html-Page-Background-Color.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+*/

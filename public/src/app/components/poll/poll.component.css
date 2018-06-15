@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h3, th, td {
+  color: #fff;
+}
+
+p {
+  color: rgb(160, 155, 155);
+}
+
+.header {
+  margin: 10px 0px 20px 0px;
+}
+
+td>button {
+  padding: 5px 10px;
+  color: black;
+}
+
